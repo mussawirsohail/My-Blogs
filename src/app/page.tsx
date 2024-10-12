@@ -34,7 +34,7 @@ export default function Responsive() {
   
         <div className="childContainer">
           <div className="imageContainer">
-            <img src="NEXTJS.PNG"alt="JS"className="pic"/>
+            <img src="NEXTJS.png"alt="JS"className="pic"/>
           </div>
           <h1 className="title">Next JS</h1>
           <p className="description">
@@ -47,7 +47,7 @@ export default function Responsive() {
         </div>
         <div className="childContainer">
           <div className="imageContainer">
-            <img src="JavaScript.png"alt="java"className="pic"/>
+            <img src="javascript.png"alt="java"className="pic"/>
           </div>
           <h1 className="title">Java Script</h1>
           <p className="description">
