@@ -6,7 +6,7 @@ export default function Nextjs(){
         <div className="parentContainerModify">    
             <div className="childContainerModify">
             <div className="imageContainer">
-            <img src="NEXTJS.PNG"alt="JS"className="pic"/>
+            <img src="NEXTJS.png"alt="JS"className="pic"/>
             </div>
             <h1 className="title">Next JS</h1>
             <p className="description">

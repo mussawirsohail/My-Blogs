@@ -6,7 +6,7 @@ export default function js(){
         <div className="parentContainerModify">
         <div className="childContainerModify">
             <div className="imageContainer">
-                <img src="JavaScript.png"alt="java"className="pic"/>
+                <img src="javascript.png"alt="java"className="pic"/>
             </div>
             <h1 className="title">Java Script</h1>
             <p className="description">
